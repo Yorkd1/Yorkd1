@@ -7,7 +7,7 @@ I'm David York, a student at Brigham Young University-Idaho interested in comput
 
 ## About Me
 
-- I'm currently learning Applied Programming, Algorithms, as well as Functional Programming, and I've completed classes pertaining to Web Development, Databases, Data Science, and Data Structures.
+- I currently know data manipulation using Data Structures, creating interactive and engaging websites for Web Development, methodologies and principles of Data Warehousing, and data cleaning, wrangling, as well as story-telling with Data Science.
 - My goals are to level up my career by learning new tools and languages to build applicable programs that have a real world impact.
 - Ask me about my projects that include using Django to build a front-end application for a Number Guessing Game between you and your computer, or populating a database with real world data using MySQL Workbench.
 
