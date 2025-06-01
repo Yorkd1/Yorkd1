@@ -9,7 +9,7 @@ I'm David York, a student at Brigham Young University-Idaho interested in comput
 
 - I currently know data manipulation using Data Structures, creating interactive and engaging websites for Web Development, methodologies and principles of Data Warehousing, and data cleaning, wrangling, as well as story-telling with Data Science.
 - My goals are to level up my career by learning new tools and languages to build applicable programs that have a real world impact.
-- Ask me about my projects that include using Plotly and Dash to make a web app showing data of the US during the Covid19 Pandemic, or my ATM Console C# project that also populates and reads data using Microsoft SQL Server.
+- Ask me about my projects that include using Plotly and Dash to make a web app showing data of the US during the Covid-19 Pandemic, or my ATM Console C# project that also populates and reads data using Microsoft SQL Server.
 
 ## Technologies and Tools
 
